@@ -1,4 +1,5 @@
 # Informe-laboratorio-1
+*Integrantes: Aguirre Johan, Calahorrano Sarahi, Lara Melany 
 1. OBEJTIVOS
 
   * Objetivo General:
